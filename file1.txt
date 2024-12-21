@@ -1,5 +1,5 @@
 <html>
-<head></head>
+<head> New folder </head>
 <body>
 alert ('hello world');
 </body>
